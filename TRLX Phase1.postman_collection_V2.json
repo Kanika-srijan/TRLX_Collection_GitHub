@@ -2,7 +2,7 @@
 	"info": {
 		"_postman_id": "06587916-3f4e-4a91-b538-80dd16def7a6",
 		"name": "TRLX  Phase1",
-		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
 	},
 	"item": [
 		{
@@ -154,7 +154,8 @@
 							],
 							"request": {
 								"auth": {
-									"type": "bearer"
+									"type": "bearer",
+									"bearer": {}
 								},
 								"method": "GET",
 								"header": [
@@ -675,7 +676,8 @@
 							],
 							"request": {
 								"auth": {
-									"type": "bearer"
+									"type": "bearer",
+									"bearer": {}
 								},
 								"method": "GET",
 								"header": [
@@ -828,7 +830,8 @@
 							],
 							"request": {
 								"auth": {
-									"type": "bearer"
+									"type": "bearer",
+									"bearer": {}
 								},
 								"method": "GET",
 								"header": [
@@ -1025,7 +1028,8 @@
 							],
 							"request": {
 								"auth": {
-									"type": "bearer"
+									"type": "bearer",
+									"bearer": {}
 								},
 								"method": "GET",
 								"header": [
@@ -1189,7 +1193,8 @@
 							],
 							"request": {
 								"auth": {
-									"type": "bearer"
+									"type": "bearer",
+									"bearer": {}
 								},
 								"method": "GET",
 								"header": [
@@ -1383,7 +1388,8 @@
 							],
 							"request": {
 								"auth": {
-									"type": "bearer"
+									"type": "bearer",
+									"bearer": {}
 								},
 								"method": "GET",
 								"header": [
@@ -1565,7 +1571,8 @@
 							],
 							"request": {
 								"auth": {
-									"type": "bearer"
+									"type": "bearer",
+									"bearer": {}
 								},
 								"method": "GET",
 								"header": [
@@ -1762,7 +1769,8 @@
 							],
 							"request": {
 								"auth": {
-									"type": "bearer"
+									"type": "bearer",
+									"bearer": {}
 								},
 								"method": "GET",
 								"header": [
@@ -1976,7 +1984,8 @@
 							],
 							"request": {
 								"auth": {
-									"type": "bearer"
+									"type": "bearer",
+									"bearer": {}
 								},
 								"method": "GET",
 								"header": [
@@ -2119,7 +2128,8 @@
 							],
 							"request": {
 								"auth": {
-									"type": "bearer"
+									"type": "bearer",
+									"bearer": {}
 								},
 								"method": "POST",
 								"header": [
@@ -2264,7 +2274,8 @@
 							],
 							"request": {
 								"auth": {
-									"type": "bearer"
+									"type": "bearer",
+									"bearer": {}
 								},
 								"method": "GET",
 								"header": [
@@ -2455,7 +2466,8 @@
 							],
 							"request": {
 								"auth": {
-									"type": "bearer"
+									"type": "bearer",
+									"bearer": {}
 								},
 								"method": "GET",
 								"header": [
@@ -2518,7 +2530,8 @@
 									"name": "Invalid End Point",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "GET",
 										"header": [
@@ -2553,7 +2566,8 @@
 									"name": "Invalid Host Name",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "GET",
 										"header": [
@@ -2589,7 +2603,8 @@
 									"name": "Req Type Change",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "POST",
 										"header": [
@@ -3534,7 +3549,8 @@
 									"name": "Invalid Brand ID",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "GET",
 										"header": [
@@ -5545,7 +5561,8 @@
 									"name": "Invalid URL",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "POST",
 										"header": [
@@ -5591,7 +5608,8 @@
 									"name": "Invalid End Point",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "POST",
 										"header": [
@@ -5637,7 +5655,8 @@
 									"name": "Blank Type",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "POST",
 										"header": [
@@ -5687,7 +5706,8 @@
 									"name": "Invalid Type",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "POST",
 										"header": [
@@ -5733,7 +5753,8 @@
 									"name": "Blank brandID",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "POST",
 										"header": [
@@ -5783,7 +5804,8 @@
 									"name": "Invalid brandID",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "POST",
 										"header": [
@@ -5829,7 +5851,8 @@
 									"name": "Blank flag",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "POST",
 										"header": [
@@ -5875,7 +5898,8 @@
 									"name": "Invalid flag",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "POST",
 										"header": [
@@ -5921,7 +5945,8 @@
 									"name": "Blank status",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "POST",
 										"header": [
@@ -5967,7 +5992,8 @@
 									"name": "Invalid Status",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "POST",
 										"header": [
@@ -6013,7 +6039,8 @@
 									"name": "Blank Nid",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "POST",
 										"header": [
@@ -6059,7 +6086,8 @@
 									"name": "Invalid Nid",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "POST",
 										"header": [
@@ -6543,7 +6571,8 @@
 									"name": "Invalid Nid",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "GET",
 										"header": [
@@ -6928,7 +6957,8 @@
 									"name": "Invalid End Point",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "GET",
 										"header": [
@@ -6972,7 +7002,8 @@
 									"name": "Blank Nid",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "GET",
 										"header": [
@@ -7021,7 +7052,8 @@
 									"name": "Without Nid Param",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "GET",
 										"header": [
@@ -7066,7 +7098,8 @@
 									"name": "Invalid Nid",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "GET",
 										"header": [
@@ -7114,7 +7147,8 @@
 									"name": "Blank Format",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "GET",
 										"header": [
@@ -7158,7 +7192,8 @@
 									"name": "Without Format",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "GET",
 										"header": [
@@ -7316,7 +7351,8 @@
 							],
 							"request": {
 								"auth": {
-									"type": "bearer"
+									"type": "bearer",
+									"bearer": {}
 								},
 								"method": "GET",
 								"header": [
@@ -7453,7 +7489,8 @@
 							],
 							"request": {
 								"auth": {
-									"type": "bearer"
+									"type": "bearer",
+									"bearer": {}
 								},
 								"method": "GET",
 								"header": [
@@ -7651,7 +7688,8 @@
 							],
 							"request": {
 								"auth": {
-									"type": "bearer"
+									"type": "bearer",
+									"bearer": {}
 								},
 								"method": "GET",
 								"header": [
@@ -7830,7 +7868,8 @@
 							},
 							"request": {
 								"auth": {
-									"type": "bearer"
+									"type": "bearer",
+									"bearer": {}
 								},
 								"method": "GET",
 								"header": [
@@ -8046,7 +8085,8 @@
 							],
 							"request": {
 								"auth": {
-									"type": "bearer"
+									"type": "bearer",
+									"bearer": {}
 								},
 								"method": "GET",
 								"header": [
@@ -8171,7 +8211,8 @@
 							],
 							"request": {
 								"auth": {
-									"type": "bearer"
+									"type": "bearer",
+									"bearer": {}
 								},
 								"method": "POST",
 								"header": [
@@ -8277,7 +8318,8 @@
 							],
 							"request": {
 								"auth": {
-									"type": "bearer"
+									"type": "bearer",
+									"bearer": {}
 								},
 								"method": "GET",
 								"header": [
@@ -8426,7 +8468,8 @@
 							],
 							"request": {
 								"auth": {
-									"type": "bearer"
+									"type": "bearer",
+									"bearer": {}
 								},
 								"method": "GET",
 								"header": [
@@ -8575,7 +8618,8 @@
 							],
 							"request": {
 								"auth": {
-									"type": "bearer"
+									"type": "bearer",
+									"bearer": {}
 								},
 								"method": "GET",
 								"header": [
@@ -8798,7 +8842,8 @@
 							],
 							"request": {
 								"auth": {
-									"type": "bearer"
+									"type": "bearer",
+									"bearer": {}
 								},
 								"method": "GET",
 								"header": [
@@ -8960,7 +9005,8 @@
 							],
 							"request": {
 								"auth": {
-									"type": "bearer"
+									"type": "bearer",
+									"bearer": {}
 								},
 								"method": "GET",
 								"header": [
@@ -10149,7 +10195,8 @@
 									"name": "Invalid End Point",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "GET",
 										"header": [
@@ -10219,7 +10266,8 @@
 									"name": "Req Type Change",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "POST",
 										"header": [
@@ -10258,7 +10306,8 @@
 									"name": "Blank Format",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "GET",
 										"header": [
@@ -10298,7 +10347,8 @@
 									"name": "Without Format Param",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "GET",
 										"header": [
@@ -10339,7 +10389,8 @@
 									"name": "Blank Language",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "GET",
 										"header": [
@@ -10379,7 +10430,8 @@
 									"name": "Without Language Param",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "GET",
 										"header": [
@@ -10420,7 +10472,8 @@
 									"name": "Invalid Language",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "GET",
 										"header": [
@@ -10495,7 +10548,8 @@
 									"name": "Invalid Token",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "GET",
 										"header": [
@@ -10568,7 +10622,8 @@
 									"name": "Invalid format",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "GET",
 										"header": [
@@ -10612,7 +10667,8 @@
 									"name": "Invalid language",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "GET",
 										"header": [
@@ -11291,7 +11347,8 @@
 									"name": "Invalid search",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "GET",
 										"header": [
@@ -11344,7 +11401,8 @@
 									"name": "Invalid URL",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "GET",
 										"header": [
@@ -11570,7 +11628,8 @@
 							],
 							"request": {
 								"auth": {
-									"type": "bearer"
+									"type": "bearer",
+									"bearer": {}
 								},
 								"method": "GET",
 								"header": [
@@ -11726,7 +11785,8 @@
 							],
 							"request": {
 								"auth": {
-									"type": "bearer"
+									"type": "bearer",
+									"bearer": {}
 								},
 								"method": "GET",
 								"header": [
@@ -11879,7 +11939,8 @@
 							],
 							"request": {
 								"auth": {
-									"type": "bearer"
+									"type": "bearer",
+									"bearer": {}
 								},
 								"method": "GET",
 								"header": [
@@ -12087,7 +12148,8 @@
 							],
 							"request": {
 								"auth": {
-									"type": "bearer"
+									"type": "bearer",
+									"bearer": {}
 								},
 								"method": "GET",
 								"header": [
@@ -12259,7 +12321,8 @@
 							],
 							"request": {
 								"auth": {
-									"type": "bearer"
+									"type": "bearer",
+									"bearer": {}
 								},
 								"method": "GET",
 								"header": [
@@ -12410,7 +12473,8 @@
 							],
 							"request": {
 								"auth": {
-									"type": "bearer"
+									"type": "bearer",
+									"bearer": {}
 								},
 								"method": "GET",
 								"header": [
@@ -12560,7 +12624,8 @@
 							],
 							"request": {
 								"auth": {
-									"type": "bearer"
+									"type": "bearer",
+									"bearer": {}
 								},
 								"method": "GET",
 								"header": [
@@ -12663,7 +12728,8 @@
 							],
 							"request": {
 								"auth": {
-									"type": "bearer"
+									"type": "bearer",
+									"bearer": {}
 								},
 								"method": "GET",
 								"header": [
@@ -12787,7 +12853,8 @@
 							],
 							"request": {
 								"auth": {
-									"type": "bearer"
+									"type": "bearer",
+									"bearer": {}
 								},
 								"method": "GET",
 								"header": [
@@ -12895,7 +12962,8 @@
 							],
 							"request": {
 								"auth": {
-									"type": "bearer"
+									"type": "bearer",
+									"bearer": {}
 								},
 								"method": "GET",
 								"header": [
@@ -13003,7 +13071,8 @@
 							],
 							"request": {
 								"auth": {
-									"type": "bearer"
+									"type": "bearer",
+									"bearer": {}
 								},
 								"method": "GET",
 								"header": [
@@ -13325,7 +13394,8 @@
 											"name": "Without format",
 											"request": {
 												"auth": {
-													"type": "bearer"
+													"type": "bearer",
+													"bearer": {}
 												},
 												"method": "GET",
 												"header": [
@@ -13370,7 +13440,8 @@
 											"name": "Without language",
 											"request": {
 												"auth": {
-													"type": "bearer"
+													"type": "bearer",
+													"bearer": {}
 												},
 												"method": "GET",
 												"header": [
@@ -13415,7 +13486,8 @@
 											"name": "Without Params",
 											"request": {
 												"auth": {
-													"type": "bearer"
+													"type": "bearer",
+													"bearer": {}
 												},
 												"method": "GET",
 												"header": [
@@ -13461,7 +13533,8 @@
 											"name": "Invalid URL",
 											"request": {
 												"auth": {
-													"type": "bearer"
+													"type": "bearer",
+													"bearer": {}
 												},
 												"method": "GET",
 												"header": [
@@ -13505,7 +13578,8 @@
 											"name": "Invalid request type",
 											"request": {
 												"auth": {
-													"type": "bearer"
+													"type": "bearer",
+													"bearer": {}
 												},
 												"method": "POST",
 												"header": [
@@ -13549,7 +13623,8 @@
 											"name": "Invalid language",
 											"request": {
 												"auth": {
-													"type": "bearer"
+													"type": "bearer",
+													"bearer": {}
 												},
 												"method": "GET",
 												"header": [
@@ -13593,7 +13668,8 @@
 											"name": "Invalid format",
 											"request": {
 												"auth": {
-													"type": "bearer"
+													"type": "bearer",
+													"bearer": {}
 												},
 												"method": "GET",
 												"header": [
@@ -13936,7 +14012,8 @@
 									"name": "Invalid End Point",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "GET",
 										"header": [
@@ -13984,7 +14061,8 @@
 									"name": "Invalid URL",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "GET",
 										"header": [
@@ -14028,7 +14106,8 @@
 									"name": "Req Type Change",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "POST",
 										"header": [
@@ -14076,7 +14155,8 @@
 									"name": "Blank Format",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "GET",
 										"header": [
@@ -14124,7 +14204,8 @@
 									"name": "Blank Language",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "GET",
 										"header": [
@@ -14172,7 +14253,8 @@
 									"name": "Invalid Language",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "GET",
 										"header": [
@@ -14220,7 +14302,8 @@
 									"name": "Blank Type",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "GET",
 										"header": [
@@ -14268,7 +14351,8 @@
 									"name": "Invalid Type",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "GET",
 										"header": [
@@ -14469,7 +14553,8 @@
 							],
 							"request": {
 								"auth": {
-									"type": "bearer"
+									"type": "bearer",
+									"bearer": {}
 								},
 								"method": "GET",
 								"header": [
@@ -14631,7 +14716,8 @@
 							],
 							"request": {
 								"auth": {
-									"type": "bearer"
+									"type": "bearer",
+									"bearer": {}
 								},
 								"method": "GET",
 								"header": [
@@ -14825,7 +14911,8 @@
 							],
 							"request": {
 								"auth": {
-									"type": "bearer"
+									"type": "bearer",
+									"bearer": {}
 								},
 								"method": "GET",
 								"header": [
@@ -14981,7 +15068,8 @@
 							],
 							"request": {
 								"auth": {
-									"type": "bearer"
+									"type": "bearer",
+									"bearer": {}
 								},
 								"method": "GET",
 								"header": [
@@ -15137,7 +15225,8 @@
 							],
 							"request": {
 								"auth": {
-									"type": "bearer"
+									"type": "bearer",
+									"bearer": {}
 								},
 								"method": "POST",
 								"header": [
@@ -15336,7 +15425,8 @@
 							},
 							"request": {
 								"auth": {
-									"type": "bearer"
+									"type": "bearer",
+									"bearer": {}
 								},
 								"method": "GET",
 								"header": [
@@ -15491,7 +15581,8 @@
 							],
 							"request": {
 								"auth": {
-									"type": "bearer"
+									"type": "bearer",
+									"bearer": {}
 								},
 								"method": "PUT",
 								"header": [
@@ -15618,7 +15709,8 @@
 							],
 							"request": {
 								"auth": {
-									"type": "bearer"
+									"type": "bearer",
+									"bearer": {}
 								},
 								"method": "DELETE",
 								"header": [
@@ -15819,13 +15911,9 @@
 							"request": {
 								"auth": {
 									"type": "bearer",
-									"bearer": [
-										{
-											"key": "token",
-											"value": "",
-											"type": "string"
-										}
-									]
+									"bearer": {
+										"token": ""
+									}
 								},
 								"method": "GET",
 								"header": [
@@ -16020,7 +16108,8 @@
 							],
 							"request": {
 								"auth": {
-									"type": "bearer"
+									"type": "bearer",
+									"bearer": {}
 								},
 								"method": "GET",
 								"header": [
@@ -16133,7 +16222,8 @@
 							],
 							"request": {
 								"auth": {
-									"type": "bearer"
+									"type": "bearer",
+									"bearer": {}
 								},
 								"method": "GET",
 								"header": [
@@ -16224,7 +16314,8 @@
 							],
 							"request": {
 								"auth": {
-									"type": "bearer"
+									"type": "bearer",
+									"bearer": {}
 								},
 								"method": "POST",
 								"header": [
@@ -16435,7 +16526,8 @@
 							},
 							"request": {
 								"auth": {
-									"type": "bearer"
+									"type": "bearer",
+									"bearer": {}
 								},
 								"method": "GET",
 								"header": [
@@ -16753,7 +16845,8 @@
 							],
 							"request": {
 								"auth": {
-									"type": "bearer"
+									"type": "bearer",
+									"bearer": {}
 								},
 								"method": "GET",
 								"header": [
@@ -17321,7 +17414,8 @@
 									"name": "Blank ID",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "POST",
 										"header": [
@@ -17366,7 +17460,8 @@
 									"name": "Invalid ID",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "POST",
 										"header": [
@@ -17411,7 +17506,8 @@
 									"name": "Blank First Name",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "POST",
 										"header": [
@@ -17456,7 +17552,8 @@
 									"name": "Invalid First Name",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "POST",
 										"header": [
@@ -17501,7 +17598,8 @@
 									"name": "Blank Email Address",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "POST",
 										"header": [
@@ -19460,7 +19558,8 @@
 									"name": "Incorrect End Point",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "GET",
 										"header": [
@@ -19636,7 +19735,8 @@
 									"name": "Blank Language",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "GET",
 										"header": [
@@ -19679,7 +19779,8 @@
 									"name": "Without Language Param",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "GET",
 										"header": [
@@ -19723,7 +19824,8 @@
 									"name": "Blank category ID",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "GET",
 										"header": [
@@ -19800,7 +19902,8 @@
 									"name": "Invalid Category ID",
 									"request": {
 										"auth": {
-											"type": "bearer"
+											"type": "bearer",
+											"bearer": {}
 										},
 										"method": "GET",
 										"header": [
